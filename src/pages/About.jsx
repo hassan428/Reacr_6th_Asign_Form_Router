@@ -1,0 +1,8 @@
+
+export function About(props) {
+    return(
+        <>
+        <p className="m-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem laborum repellendus illum assumenda perferendis maxime eum voluptas veritatis vel odit eveniet asperiores nemo error architecto nulla exercitationem, recusandae voluptatum neque culpa tempora soluta. Exercitationem cupiditate amet eos porro explicabo non maxime provident iusto asperiores soluta quis culpa nemo sit magnam dignissimos mollitia, corrupti totam dolore. Aspernatur, ipsum! Architecto, sit doloribus. Voluptas beatae amet ab accusantium exercitationem nobis, dolorem aperiam dignissimos dolor. Labore autem porro error dolores ducimus nam dolorum voluptate temporibus ut quisquam corporis veniam sint quaerat voluptas maiores at eveniet impedit quas aut, vitae officia eos. Culpa doloribus molestias molestiae perferendis ullam illo modi nam, consectetur, neque unde tempora. Laudantium enim minima harum reiciendis magnam libero nam autem doloremque, totam a quo accusantium necessitatibus perferendis, eligendi pariatur officia aut animi unde odio! Distinctio deleniti cumque dignissimos facilis quaerat sapiente est suscipit optio, minus laudantium aspernatur consectetur sequi et aperiam nisi iusto! Voluptates quaerat ab, qui odio debitis consequuntur maxime! Aliquid esse delectus harum blanditiis, enim ad, corrupti quaerat incidunt, sunt minus inventore facilis labore! Maxime laboriosam rerum iste ad molestias laudantium, consequuntur placeat temporibus libero, amet officiis sunt doloribus qui totam id veritatis inventore ipsum impedit, reprehenderit repellendus labore.</p>
+        </>
+    )
+}
